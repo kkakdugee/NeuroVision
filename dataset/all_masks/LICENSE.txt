@@ -1,0 +1,4 @@
+Copyright © Luca Clissa,  Roberto Morelli, Timna Hitrec, Marco Luppi, Lorenzo Rinaldi, Fabio Squarcio and Antonio Zoccoli (2021)
+This work is licensed under a Creative Commons Attribution – Non Commercial –
+Share Alike 4.0 license.
+The text of the license is available at https://creativecommons.org/licenses/by-sa/4.0/
